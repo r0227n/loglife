@@ -10,7 +10,15 @@ Close #XXX
 - [ ] 
 
 
-<!-- ## Review -->
-<!-- Copilotのレビューは日本語で行われます
-レビューコメントは日本語で返信してください
-技術的な質問や改善提案は日本語で行います -->
+<!-- for GitHub Copilot review rule -->
+<!--
+レビューする際には、以下のprefix(接頭辞)をつけてください
+[must]  
+[imo] (in my opinion)  
+[nits](nitpick) 
+[ask]  
+[fyi]
+-->
+<!-- for GitHub Copilot review  rule-->
+
+<!-- I want to review in Japanese. -->
