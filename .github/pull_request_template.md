@@ -1,15 +1,3 @@
-## Related Issue
-<!-- Please specify the Issue that this PR will close -->
-Close #XXX
-
-## Description
-<!-- このPRで行った変更内容を詳細に記載してください -->
-
-## Checklist
-
-- [ ] 
-
-
 <!-- for GitHub Copilot review rule -->
 <!--
 レビューする際には、以下のprefix(接頭辞)をつけてください
@@ -22,3 +10,14 @@ Close #XXX
 <!-- for GitHub Copilot review  rule-->
 
 <!-- I want to review in Japanese. -->
+
+## Related Issue
+<!-- Please specify the Issue that this PR will close -->
+Close #XXX
+
+## Description
+<!-- このPRで行った変更内容を詳細に記載してください -->
+
+## Checklist
+
+- [ ]  
