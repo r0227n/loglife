@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = true
 enableGitInfo = false
-summaryLength  = "30"
+summaryLength  = "4"
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [pagination]
@@ -32,7 +32,6 @@ useHLJS = true
 socialShare = true
 delayDisqus = true
 showRelatedPosts = true
-summaryLength  = "4"
 lunrSearch = true
 gcse = false
 lastmod = false
