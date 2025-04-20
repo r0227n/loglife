@@ -1,3 +1,6 @@
 [submodule "themes/lightbi-hugo"]
 	path = themes/lightbi-hugo
-	url = https://github.com/binokochumolvarghese/lightbi-hugo
+	url = https://github.com/r0227n/lightbi-hugo
+[submodule "lightbi-hugo"]
+	path = lightbi-hugo
+	url = https://github.com/r0227n/lightbi-hugo.git
