@@ -18,6 +18,15 @@ enableGitInfo = false
 summaryLength  = "4"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+# OGP設定
+[params]
+  # 共有のOGP設定
+  images = ["/images/ogp-default.png"] # デフォルトのOGP画像
+  og_site_name = "LogLife"
+  og_type = "website"
+  twitter_card = "summary_large_image"
+  twitter_site = "@r0227n"
+
 [pagination]
 pagerSize = 6
 
